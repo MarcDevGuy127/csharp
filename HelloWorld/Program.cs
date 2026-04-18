@@ -19,3 +19,8 @@ Console.WriteLine("3");
 Console.Write("1");
 Console.Write("2");
 Console.Write("3");
+
+// Creating variables
+string firstName;
+firstName = "Bob";
+//Console.WriteLine(firstName);
