@@ -5,6 +5,9 @@
 Console.WriteLine("This is the first line.");
 Console.WriteLine("This is the second line.");
 
+// using int literal
+Console.WriteLine(123);
+
 // WriteLine() X Write()
 
 // using WriteLine() method, appends lines after print
