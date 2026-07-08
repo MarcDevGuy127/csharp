@@ -1,20 +1,10 @@
-﻿using System;
+﻿using CSharpStudies.Fundamentals;
 
-namespace HelloWorld
+public class Program
 {
-
-    class Program
+    public static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            // WriteLine creates a new line at the end
-            // Write don't creates a new line
-            Console.Write("Hello World! with Write");
-            Console.WriteLine("Hello World! with WriteLine");
-            Console.Write("Hello World! with Write");
-
-            // You cam also do aritmetic operations like:
-            Console.WriteLine(6+6);
-        }
+        //Writing.Run();
+        Variables.Run();
     }
 }

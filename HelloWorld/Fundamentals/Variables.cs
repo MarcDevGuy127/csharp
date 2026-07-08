@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HelloWorld.Fundamentals
+namespace CSharpStudies.Fundamentals
 {
     public class Variables
     {
