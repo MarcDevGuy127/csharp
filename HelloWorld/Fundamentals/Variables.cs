@@ -13,6 +13,7 @@ namespace CSharpStudies.Fundamentals
             string name = "Marcelo";
             int age = 20;
             double myMoney = 278.99D;
+            float bill = 456F;
             long pocket = 15000000000L;
             char firstLetter = 'M';
             bool myBool = true;
@@ -23,6 +24,7 @@ namespace CSharpStudies.Fundamentals
             Console.WriteLine(university);
             Console.WriteLine(age);
             Console.WriteLine(myMoney);
+            Console.WriteLine(bill);
             Console.WriteLine(pocket);
             Console.WriteLine(firstLetter);
             Console.WriteLine(myBool);
